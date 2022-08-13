@@ -29,8 +29,8 @@ on:
   #schedule:
   #  - cron: 0 8 * * 5
 
-  #watch:
-  #  types: [started]
+  watch:
+    types: [started]
 
 ### 环境变量设置
 env:
